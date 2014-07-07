@@ -1,21 +1,21 @@
-title:            Balzac
-tagline:          A beautiful theme.
+title:            Ocean Ship
+tagline:          Making waves
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://jekyll.gtat.me
+url: http://www.oceanshipgames.com
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco        
-  github:         coletownsend       
-  instagram:      ctrunsthis     
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:           Ocean Ship
+  avatar:         
+  bio:            ""
+  email:          tom@patchwack.com
+  twitter:              
+  github:         oceanship      
+  instagram:         
+  dribbble:       
+  disqus:         
+  location:       "Brussels, Belgium"
   # Plug in your disqus shortname!
 
 tools:
@@ -35,7 +35,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Brussels
 future:      true
 pygments:    true
 markdown:    kramdown
