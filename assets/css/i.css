@@ -557,9 +557,15 @@ header.site-header nav ul li a:hover {
 .article .featured-image {
   vertical-align: middle;
   width: 100%;
-  height: auto;
+
   
  
+  background-position: center center;
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   position: relative;
   top: 0;
   z-index: -1;
