@@ -556,11 +556,11 @@ header.site-header nav ul li a:hover {
 }
 .article .featured-image {
   vertical-align: middle;
-  min-height: 240px;
+  min-height: 100%;
   width: 100%;
   background-position: center center;
   background-size: 100% auto;
-   background-repeat: no-repeat;
+  background-repeat: no-repeat;
   vertical-align: middle;
   -webkit-background-size: 100% auto;
   -webkit-background-repeat: no-repeat;
@@ -573,7 +573,7 @@ header.site-header nav ul li a:hover {
   z-index: -1;
 }
 .article .featured-image img {
-  min-height: 240px;
+  min-height: 100%;
 }
 .article header {
   margin: 66px 0 33px 0;
