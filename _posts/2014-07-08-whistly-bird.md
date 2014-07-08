@@ -1,11 +1,11 @@
 ---
-layout: post-light-feature
-title: Test Post
-description: "Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage."
+layout: post
+title: Whistly Bird
+description: "Flappy Bird clone with a whistly twist."
 categories: articles
-date: 2013-08-17
+date: 2014-07-08
 image: 
-        feature: soft-trees.jpg
+        feature: wb.png
 ---
 Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
 
