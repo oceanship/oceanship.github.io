@@ -555,29 +555,23 @@ header.site-header nav ul li a:hover {
   background: rgba(0, 0, 0, 0.1);
 }
 .article .featured-image {
- 
-  
-  
-
+  vertical-align: middle;
+  min-height: 360px;
+  height: 100%;
+  width: 100%;
+  max-height: 800px;
   background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 100% auto;
-  vertical-align: top;
-  -webkit-background-repeat: no-repeat;
-  -webkit-background-size: 100% auto;
-  -moz-background-repeat: no-repeat;
-  -moz-background-size: 100% auto;
-  -o-background-repeat: no-repeat;
-  -o-background-size: 100% auto;
-
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   position: relative;
   top: 0;
   z-index: -1;
 }
-
-
 .article .featured-image img {
-
+  max-height: 800px;
 }
 .article header {
   margin: 66px 0 33px 0;
