@@ -496,9 +496,9 @@ header.site-header hgroup a:hover {
 }
 
 header.site-header nav {
-  float: right;
+  float: left;
   display: block;
-  padding-right: 5vw;
+  padding-left: 5vw;
 }
 header.site-header nav:before, header.site-header nav:after {
   content: "";
@@ -1057,10 +1057,10 @@ footer .social ul li:last-child {
 
   header.site-header nav ul li a {
     display: block;
-    text-align: right;
+    text-align: left;
     font-weight: bold;
     padding: 15px 0px;
-    padding-right: 7%;
+    padding-left: 7%;
     position: relative;
     width: 100%;
     color: #f9f9f9;
