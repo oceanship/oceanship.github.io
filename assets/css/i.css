@@ -555,6 +555,7 @@ header.site-header nav ul li a:hover {
   background: rgba(0, 0, 0, 0.1);
 }
 .article .featured-image {
+/*
   vertical-align: middle;
   min-height: 240px;
   width: 100%;
@@ -573,9 +574,12 @@ header.site-header nav ul li a:hover {
   position: relative;
   top: 0;
   z-index: -1;
+  */
+  background: no-repeat center center;
+  background-size: cover;
 }
 .article .featured-image img {
-  min-height: 240px;
+  /*min-height: 240px;*/
 }
 .article header {
   margin: 66px 0 33px 0;
