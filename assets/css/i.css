@@ -539,7 +539,7 @@ header.site-header nav ul li a:hover {
 /* Article Stuff */
 .article {
   position: relative;
-  
+  margin-bottom: 33px;
 }
 .article .overlay {
   vertical-align: middle;
@@ -563,14 +563,14 @@ header.site-header nav ul li a:hover {
 
   background-position: center center;
   background-repeat:no-repeat;
-  background-size: 100% auto;
+  background-size: 100% 100%;
   vertical-align: middle;
   -webkit-background-repeat:no-repeat;
-  -webkit-background-size: 100% auto;
+  -webkit-background-size: 100% 100%;
   -moz-background-repeat:no-repeat;
-  -moz-background-size: 100% auto;
+  -moz-background-size: 100% 100%;
   -o-background-repeat:no-repeat;
-  -o-background-size: 100% auto;
+  -o-background-size: 100% 100%;
 
   position: relative;
   top: 0;
