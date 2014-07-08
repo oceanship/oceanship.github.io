@@ -573,7 +573,7 @@ header.site-header nav ul li a:hover {
 
 @media \0screen {
   article .featured-image { 
-  	width: auto; /* for ie 8 */
+  	height: auto; /* for ie 8 */
   }
 }
 .article .featured-image img {
