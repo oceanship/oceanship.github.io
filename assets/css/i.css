@@ -560,17 +560,17 @@ header.site-header nav ul li a:hover {
   min-width: 100%;
   
   background-position: center center;
-  background-size: contain;
+  background-size: 100% auto;
   background-repeat: no-repeat;
   vertical-align: middle;
-  -webkit-background-size: contain;
+  -webkit-background-size: 100% auto;
   -webkit-background-repeat: no-repeat;
-  -moz-background-size: contain;
+  -moz-background-size: 100% auto;
   -moz-background-repeat: no-repeat;
-  -o-background-size: contain;
+  -o-background-size: 100% auto;
   -o-background-repeat: no-repeat;
   
-  position: relative;
+  position: absolute;
   top: 0;
   z-index: -1;
 }
