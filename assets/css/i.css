@@ -568,7 +568,14 @@ header.site-header nav ul li a:hover {
   
 }
 .article .featured-image img {
-  min-height: 240px;
+ background-size: 100% auto;
+  background-repeat: no-repeat;
+  -webkit-background-size: 100% auto;
+  -webkit-background-repeat: no-repeat;
+  -moz-background-size: 100% auto;
+  -moz-background-repeat: no-repeat;
+  -o-background-size: 100% auto;
+  -o-background-repeat: no-repeat;
 }
 .article header {
   margin: 66px 0 33px 0;
