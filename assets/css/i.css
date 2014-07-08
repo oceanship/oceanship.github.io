@@ -539,7 +539,7 @@ header.site-header nav ul li a:hover {
 /* Article Stuff */
 .article {
   position: relative;
-  margin-bottom: 33px;
+  
 }
 .article .overlay {
   vertical-align: middle;
