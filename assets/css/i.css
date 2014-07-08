@@ -229,6 +229,23 @@ blockquote, blockquote p {
   .archive input {
     font-size: 32px;
   }
+  
+  .article .featured-image {
+  vertical-align: middle;
+  min-height: 180px;
+  height: 50vh;
+  width: 100%;
+  max-height: 240px;
+  background-position: center center;
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  top: 0;
+  z-index: -1;
+}
 }
 /************ Basic *************/
 body {
@@ -559,6 +576,7 @@ header.site-header nav ul li a:hover {
   min-height: 360px;
   height: 50vh;
   width: 100%;
+  max-height: 800px;
   background-position: center center;
   background-size: cover;
   vertical-align: middle;
@@ -570,7 +588,7 @@ header.site-header nav ul li a:hover {
   z-index: -1;
 }
 .article .featured-image img {
-
+  max-height: 800px;
 }
 .article header {
   margin: 66px 0 33px 0;
@@ -960,6 +978,22 @@ footer .social ul li:last-child {
   footer .social {
     right: 10vw;
   }
+  .article .featured-image {
+  vertical-align: middle;
+  min-height: 300px;
+  height: 50vh;
+  width: 100%;
+  max-height: 400px;
+  background-position: center center;
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  top: 0;
+  z-index: -1;
+}
 }
 /* Mobile
    ========================================================================== */
@@ -984,6 +1018,22 @@ footer .social ul li:last-child {
   footer .prev-posts li {
     margin-top: 16.5px;
   }
+  .article .featured-image {
+  vertical-align: middle;
+  min-height: 200px;
+  height: 50vh;
+  width: 100%;
+  max-height: 250px;
+  background-position: center center;
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  top: 0;
+  z-index: -1;
+}
 }
 @media only screen and (max-width: 680px) {
   /* All Posts */
@@ -1089,6 +1139,22 @@ footer .social ul li:last-child {
     color: #f9f9f9;
     background-color: #8ab9d1;
   }
+  .article .featured-image {
+  vertical-align: middle;
+  min-height: 280px;
+  height: 50vh;
+  width: 100%;
+  max-height: 340px;
+  background-position: center center;
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  top: 0;
+  z-index: -1;
+}
 }
 @media only screen and (max-width: 480px) {
   .post {
