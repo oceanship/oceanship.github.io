@@ -559,7 +559,7 @@ header.site-header nav ul li a:hover {
   min-height: 240px;
   width: 100%;
   
-  background-position: 50%;
+  background-position: center center;
   background-size: 100% auto;
   background-repeat: no-repeat;
   -webkit-background-size: 100% auto;
