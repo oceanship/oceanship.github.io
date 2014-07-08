@@ -382,7 +382,7 @@ input {
 #bump {
   min-height: 100%;
   height: auto;
-  margin: 0 auto;
+  margin: 0 auto-320px;
 }
 
 .wrap {
@@ -563,14 +563,14 @@ header.site-header nav ul li a:hover {
 
   background-position: center center;
   background-repeat:no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
   vertical-align: middle;
   -webkit-background-repeat:no-repeat;
-  -webkit-background-size: 100% 100%;
+  -webkit-background-size: 100% auto;
   -moz-background-repeat:no-repeat;
-  -moz-background-size: 100% 100%;
+  -moz-background-size: 100% auto%;
   -o-background-repeat:no-repeat;
-  -o-background-size: 100% 100%;
+  -o-background-size: 100% auto;
 
   position: relative;
   top: 0;
@@ -611,7 +611,7 @@ header.site-header nav ul li a:hover {
   display: block;
   margin: 0 auto;
   float: none;
-  min-height: 500px;
+  
 }
 
 .archive-wrap {
