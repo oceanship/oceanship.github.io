@@ -555,11 +555,8 @@ header.site-header nav ul li a:hover {
   background: rgba(0, 0, 0, 0.1);
 }
 .article .featured-image {
-  vertical-align: middle;
-  min-height: 240px;
-  width: 100%;
   
-  background-position: center center;
+  
   background-size: 100% auto;
   background-repeat: no-repeat;
   -webkit-background-size: 100% auto;
