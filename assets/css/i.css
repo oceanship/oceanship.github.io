@@ -556,7 +556,7 @@ header.site-header nav ul li a:hover {
 }
 .article .featured-image {
   vertical-align: middle;
-  min-height: 100%;
+  min-height: 120%;
   width: 100%;
   background-position: center center;
   background-size: 100% auto;
