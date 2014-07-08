@@ -555,7 +555,7 @@ header.site-header nav ul li a:hover {
   background: rgba(0, 0, 0, 0.1);
 }
 .article .featured-image {
-  
+  height: 100%;
   
  
 
