@@ -564,14 +564,14 @@ header.site-header nav ul li a:hover {
  
   background-position: center center;
   background-repeat:no-repeat;
-  background-size: contain;
+  background-size: 100% contain;
   vertical-align: middle;
   -webkit-background-repeat:no-repeat;
-  -webkit-background-size: contain;
+  -webkit-background-size: 100% contain;
   -moz-background-repeat:no-repeat;
-  -moz-background-size: contain;
+  -moz-background-size: 100% contain;
   -o-background-repeat:no-repeat;
-  -o-background-size: contain;
+  -o-background-size: 100% contain;
   position: relative;
   top: 0;
   z-index: -1;
