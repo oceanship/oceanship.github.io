@@ -1067,7 +1067,7 @@ footer .social ul li:last-child {
   }
   header.site-header nav ul li a:active {
     background-color: #8ab9d1;
-    color: black;
+    color: white;
   }
   header.site-header nav ul li a:hover {
     text-shadow: none;
