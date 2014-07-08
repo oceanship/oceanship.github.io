@@ -558,8 +558,8 @@ header.site-header nav ul li a:hover {
   vertical-align: middle;
   
   height: auto;
-  width: 100%;
-  max-height: 80000px;
+  max-width: 100%;
+ 
   background-position: center center;
   background-size: cover;
   vertical-align: middle;
@@ -570,8 +570,14 @@ header.site-header nav ul li a:hover {
   top: 0;
   z-index: -1;
 }
+
+@media \0screen {
+  article .featured-image { 
+  	width: auto; /* for ie 8 */
+  }
+}
 .article .featured-image img {
-  max-height: 80000px;
+
 }
 .article header {
   margin: 66px 0 33px 0;
