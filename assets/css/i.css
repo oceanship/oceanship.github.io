@@ -558,9 +558,9 @@ header.site-header nav ul li a:hover {
   vertical-align: middle;
   min-height: 240px;
   width: 100%;
+  background-clip: border-box;
   
-  
-  background-position: bottom bottom;
+  background-position: center center;
   background-size: 100% auto;
   background-repeat: no-repeat;
   -webkit-background-size: 100% auto;
