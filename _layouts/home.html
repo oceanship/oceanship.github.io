@@ -1,5 +1,7 @@
 {% include head.html %}
 
+<section class="article">
+
 {% if page.image.feature %}
   <div class="featured-image" style="background-image: url({{ site.url }}/images/{{ page.image.feature }})"></div>
 {% else %}
@@ -24,5 +26,5 @@
           </article>
         </section>
     </div>
-
+</section>
 {% include footer.html %}
