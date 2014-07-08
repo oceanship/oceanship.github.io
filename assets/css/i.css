@@ -571,6 +571,8 @@ header.site-header nav ul li a:hover {
   -moz-background-size: contain;
   -o-background-repeat:no-repeat;
   -o-background-size: contain;
+  width: 100%;
+  height: auto;
   position: relative;
   top: 0;
   z-index: -1;
