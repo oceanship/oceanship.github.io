@@ -382,7 +382,7 @@ input {
 #bump {
   min-height: 100%;
   height: auto;
-  margin: 0 auto-320px;
+  margin: 0 auto;
 }
 
 .wrap {
