@@ -556,13 +556,13 @@ header.site-header nav ul li a:hover {
 }
 .article .featured-image {
   vertical-align: middle;
-  min-height: 100% !important;
+  height: 100%;
  
   width: 100%;
   
   background-position: center center;
   background-size: cover;
-  vertical-align: middle;
+
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
