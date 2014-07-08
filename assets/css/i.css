@@ -556,7 +556,7 @@ header.site-header nav ul li a:hover {
 }
 .article .featured-image {
   vertical-align: middle;
-  width: 100%;
+  max-width: 100%;
   height: auto;
   
  
@@ -571,11 +571,7 @@ header.site-header nav ul li a:hover {
   z-index: -1;
 }
 
-@media \0screen {
-  article .featured-image { 
-  	height: auto; /* for ie 8 */
-  }
-}
+
 .article .featured-image img {
 
 }
