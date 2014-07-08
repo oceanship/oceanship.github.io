@@ -560,7 +560,7 @@ header.site-header nav ul li a:hover {
   width: 100%;
   
   
-  background-position: top top;
+  background-position: bottom bottom;
   background-size: 100% auto;
   background-repeat: no-repeat;
   -webkit-background-size: 100% auto;
