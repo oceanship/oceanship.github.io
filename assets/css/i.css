@@ -558,7 +558,7 @@ header.site-header nav ul li a:hover {
   vertical-align: middle;
   min-height: 240px;
   width: 100%;
-  position: absolute;
+  
   
   background-position: auto 100%;
   background-size: cover;
@@ -566,7 +566,7 @@ header.site-header nav ul li a:hover {
   -webkit-background-size: auto 100%;
   -moz-background-size: auto 100%;
   -o-background-size: auto 100%;
-  
+  position: relative;
   top: 0;
   z-index: -1;
 }
