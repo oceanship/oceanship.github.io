@@ -10,8 +10,6 @@ image:
 
 ***Production of Patchwack is on hold, contact us (staff@patchwack.com) if you're an investor***
 
-[Watch a teaser](https://www.youtube.com/watch?v=EcDLBNuFEmA)
-
 <a href="https://www.youtube.com/watch?v=EcDLBNuFEmA" target="_blank"><img src="https://i1.ytimg.com/vi/EcDLBNuFEmA/mqdefault.jpg" 
 alt="Patchwack teaser" width="240" height="180" border="10" />Watch a teaser</a>
 
@@ -22,7 +20,8 @@ Read the prequel story:
  
 
 #### Part I
- 
+
+
 
 In 1841, the Massachusetts legislature chartered a corporation for the establishment of “an asylum for the moral treatment of the disruptively insane.” Shares were bought by factory owners, congressmen, state senators, churchmen, developers and financiers.
 
