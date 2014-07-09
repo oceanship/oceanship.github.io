@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Whistly Bird
-description: "Flappy Bird clone with a whistly twist."
+description: "Flappy Bird clone with a whistly twist"
 categories: articles
-date: 2014-07-08
 image: 
         feature: wb.png
 ---
