@@ -8,7 +8,7 @@ image:
         feature: pw_logo2.png
 ---
 
-***Production of Patchwack is currently on hold, contact us (staff@patchwack.com) if you can help us to get it going again***
+***Production of Patchwack is currently on hold, contact us (staff@patchwack.com) if you can help to get it going again***
 
 <a href="https://www.youtube.com/watch?v=EcDLBNuFEmA" target="_blank"><img src="https://i1.ytimg.com/vi/EcDLBNuFEmA/mqdefault.jpg" 
 alt="Patchwack teaser" />Watch a teaser</a>
