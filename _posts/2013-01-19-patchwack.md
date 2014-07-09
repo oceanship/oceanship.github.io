@@ -11,7 +11,7 @@ image:
 ***Production of Patchwack is on hold, contact us (staff@patchwack.com) if you're an investor***
 
 <a href="https://www.youtube.com/watch?v=EcDLBNuFEmA" target="_blank"><img src="https://i1.ytimg.com/vi/EcDLBNuFEmA/mqdefault.jpg" 
-alt="Patchwack teaser" width="240" height="180" border="10" />Watch a teaser</a>
+alt="Patchwack teaser" />Watch a teaser</a>
 
 Read the prequel story:
 
