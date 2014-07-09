@@ -18,7 +18,7 @@ Read the prequel story:
 ## Rathston Asylum and the Origin of Patchwack
  
 
-#### Part I
+### Part I
 
 
 In 1841, the Massachusetts legislature chartered a corporation for the establishment of “an asylum for the moral treatment of the disruptively insane.” Shares were bought by factory owners, congressmen, state senators, churchmen, developers and financiers.
