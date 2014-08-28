@@ -557,12 +557,11 @@ header.site-header nav ul li a:hover {
 
 .article .head-image {
   background-color: #2b66ec;
-  display: block;
   height: 20vh;
   width: auto;
-  max-width: 244px
-  max-height: 192px;
-  background-position: center center;
+  max-width: 650px
+  max-height: 512px;
+  background-position: left center;
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-background-size: contain;
