@@ -1,13 +1,11 @@
 ---
 layout: post
 title: Whistly Bird
-description: "Flappy Bird clone with a whistly twist"
+description: "Our homage to Flappy Bird"
 categories: articles
 image: 
         feature: wb.png
 ---
-Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
-
-Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.
+WhistlyBird is a noisy Flappy Bird knock-off where you whistle to flap your wings and avoid those pipes, those pipes! The craze may be over, but we made a hard game harder, and our bird bites the turf. Our clone contains no malware.
 
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Patchwack"
-description: "What if we turned you into a neurotic?"
+description: "An unreleased MMORPG about dolls gone mental"
 category: articles
 tags: [mmo, disorders, psychiatry]
 image: 
         feature: pw_logo2.png
 ---
 
-***Production of Patchwack is currently on hold, contact us (staff@patchwack.com) if you can help to get it going again***
+# Patchwack is a psych-themed PvP MMORPG set in a doll-world with a doll-director. You play a puppet who once belonged to a patient in a 19th-century asylum. Talk the talk, walk the walk, observe, intervene, and rise to the top. Explore the Center, the Grounds, and the Sea. This game is not yet released.
 
 <a href="https://www.youtube.com/watch?v=EcDLBNuFEmA" target="_blank"><img src="https://i1.ytimg.com/vi/EcDLBNuFEmA/mqdefault.jpg" 
 alt="Patchwack teaser" />Watch a teaser</a>
