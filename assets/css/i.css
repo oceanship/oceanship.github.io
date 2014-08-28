@@ -803,7 +803,7 @@ header.site-header nav ul li a:hover {
 .post .share {
   text-align: center;
   display: block;
-  margin: 20px auto 20px auto;
+  margin: 20px 0 20px 0;
   width: 76px;
   font-size: 16px;
   font-family: "Source Sans Pro", "Open Sans", "Helvetica Neue", "Arial", sans-serif;
