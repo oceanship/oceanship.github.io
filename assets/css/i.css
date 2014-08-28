@@ -556,6 +556,7 @@ header.site-header nav ul li a:hover {
 }
 
 .article .head-image {
+  display: block;
   background-color: #2b66ec;
   vertical-align: middle;
   min-height: 20px;
