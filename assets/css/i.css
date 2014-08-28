@@ -382,7 +382,7 @@ input {
 #bump {
   min-height: 100%;
   height: auto;
-  margin: 0 0px;
+  margin: 0 auto-320px;
 }
 
 .wrap {
@@ -630,7 +630,7 @@ header.site-header nav ul li a:hover {
   display: block;
   margin: 0 auto;
   float: none;
-  padding-top: 140px;
+  padding-top: 20px;
 }
 .archive-wrap .post-list {
   list-style-type: none;
