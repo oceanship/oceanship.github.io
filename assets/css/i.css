@@ -554,6 +554,24 @@ header.site-header nav ul li a:hover {
 .article .overlay-lighter {
   background: rgba(0, 0, 0, 0.1);
 }
+
+.article .head-image {
+  vertical-align: middle;
+  min-height: 20px;
+  height: 10vh;
+  width: 100%;
+  max-height: 100px;
+  background-position: center center;
+  background-size: cover;
+  vertical-align: middle;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  position: relative;
+  top: 0;
+  z-index: -1;
+}
+
 .article .featured-image {
   vertical-align: middle;
   min-height: 360px;
