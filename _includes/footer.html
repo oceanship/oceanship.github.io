@@ -1,7 +1,7 @@
 <!--div class="push"></div-->
   <footer>
     <!--aside class="wrap"-->
-      <!--ol class="prev-posts"-->
+      <ol class="prev-posts">
         <p class="list-title">Recent Posts</p>
         {% for post in site.posts | limit:3 %} <!-- for1 -->
             <li>
@@ -9,7 +9,7 @@
               <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
             </li>
         {% endfor %}
-      <!--/ol-->
+      </ol>
 
       <div class="social">
         <ul>
