@@ -562,6 +562,11 @@ header.site-header nav ul li a:hover {
   width: auto;
   max-width: 244px
   max-height: 192px;
+  background-position: center center;
+  background-size: contain;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
 }
 
 .article .featured-image {
