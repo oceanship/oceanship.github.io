@@ -631,6 +631,7 @@ header.site-header nav ul li a:hover {
   margin: 0 auto;
   float: none;
   padding-top: 10px;
+  padding-bottom: 20px;
 }
 .archive-wrap .post-list {
   list-style-type: none;
