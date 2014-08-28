@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/index.html
 title: Ocean Ship
-description: ""
+description:
 tags: [about, gaming, indie]
 image:
   feature: oceanshipcrew_updated.png
