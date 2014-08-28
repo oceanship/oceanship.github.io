@@ -560,7 +560,7 @@ header.site-header nav ul li a:hover {
   background-color: #2b66ec;
   vertical-align: middle;
   min-height: 20px;
-  height: 20vh;
+  height: auto;
   width: auto;
   max-width: 244px
   max-height: 192px;
