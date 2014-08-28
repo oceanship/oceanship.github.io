@@ -559,14 +559,12 @@ header.site-header nav ul li a:hover {
   display: block;
   background-color: #2b66ec;
   vertical-align: middle;
-  min-height: 20px;
-  height: auto;
+  height: 20vh;
   width: auto;
   max-width: 244px
   max-height: 192px;
   background-position: center center;
   background-size: cover;
-  vertical-align: middle;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
