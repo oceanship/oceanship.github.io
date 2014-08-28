@@ -25,8 +25,8 @@ tools:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Games
-    url: /games
+  - title: Blog
+    url: /blog
   - title: About
     url: /about
 
