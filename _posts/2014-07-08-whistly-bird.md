@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Whistly Bird
+title: "Whistly Bird"
 description: "Our homage to Flappy Bird"
 categories: articles
+tags: [arcade, puzzle, flappy bird, clone]
 image: 
         feature: wb.png
 ---
