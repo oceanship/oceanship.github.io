@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blog/index.html
-title: Blog
+title: "Blog"
 description: ""
 tags: [games, gaming, indie]
 image:
@@ -11,7 +11,7 @@ image:
 	<section class="article archive">
 	  <article class="archive-wrap">
 		  <ol class="post-list">
-			 <!--lh><h2><span class="bb">{{ page.title }}</span></h2></lh-->
+			 <lh><h2><span class="bb">{{ page.title }}</span></h2></lh>
 			  {% for post in site.posts %}
 			  <li>
 				<div class="deets" itemscope itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
