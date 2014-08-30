@@ -371,7 +371,9 @@ input {
 }
 
 .bb {
+  /*
   border-bottom: 2px solid #8ab9d1;
+  */
 }
 
 .pad-top {
