@@ -558,6 +558,8 @@ header.site-header nav ul li a:hover {
 }
 
 .article .head-image {
+  vertical-align: middle;
+  min-height: 20px;
   background-color: #2b66ec;
   height: 20vh;
   width: auto;
