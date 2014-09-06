@@ -581,11 +581,9 @@ header.site-header nav ul li a:hover {
   max-height: 800px;
   background-position: center center;
   background-size: cover;
-  vertical-align: middle;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  position: relative;
   top: 0;
   z-index: -1;
 }
