@@ -560,9 +560,7 @@ header.site-header nav ul li a:hover {
 .article .head-image {
   vertical-align: middle;
   min-height: 100px;
-  background-color: #3b3b3b;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  background-color: #2b66ec;
   height: 20vh;
   width: auto;
   max-width: 650px
