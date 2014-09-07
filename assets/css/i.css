@@ -1186,8 +1186,9 @@ iPad 3
 	}
 	
 	.article .head-image {
-	    background-image: url('/images/weblogo_banner_210.png');
 		max-height: 210px;
+	    background-image: url('/images/weblogo_banner_210.png');
+		
     }
 }
 
@@ -1199,8 +1200,9 @@ iPad 3
 	}
 	
 	.article .head-image {
-	    background-image: url('/images/weblogo_banner_300.png');
 		max-height: 300px;
+	    background-image: url('/images/weblogo_banner_300.png');
+		
     }
 }
 /* Desktops and laptops ----------- */
