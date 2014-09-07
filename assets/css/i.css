@@ -562,7 +562,7 @@ header.site-header nav ul li a:hover {
   min-height: 128px;
   background-color: #2b66ec;
   height: 25vh;
-  width: auto;
+  width: 100%;
   max-height: 1024px;
   background-position: 5% center;
   background-size: cover;
