@@ -1203,6 +1203,9 @@ iPad 3
 	.article .featured-image {
 		min-height: 612px;
 	}
+	.article .head-image {
+	    background-image: url('/images/weblogo_banner3.png');
+	}
 }
 
 /* Large screens ----------- */
