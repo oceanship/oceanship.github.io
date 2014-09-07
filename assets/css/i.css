@@ -571,10 +571,8 @@ header.site-header nav ul li a:hover {
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
-  image-rendering:optimizeSpeed;             /* Legal fallback */
-  image-rendering:-moz-crisp-edges;          /* Firefox        */
-  image-rendering:-o-crisp-edges;            /* Opera          */
-  image-rendering:-webkit-optimize-contrast; /* Safari         */
+  image-rendering:auto;             /* Legal fallback */
+  
 }
 
 .article .featured-image {
