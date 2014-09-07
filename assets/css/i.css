@@ -558,16 +558,13 @@ header.site-header nav ul li a:hover {
 }
 
 .article .head-image {
-  vertical-align: middle;
-  min-height: 2.5em;
   background-color: #2b66ec;
-  height: 25vh;
-  background-position: 0.625em center;
+  background-position: 2.5em 0;
   background-repeat: no-repeat;
-  background-size: contain;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
+  background-size:  1.875em 10em;;
+  -webkit-background-size:  1.875em 10em;;
+  -moz-background-size:  1.875em 10em;;
+  -o-background-size:  1.875em 10em;;
 }
 
 .article .featured-image {
