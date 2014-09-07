@@ -565,6 +565,7 @@ header.site-header nav ul li a:hover {
   width: auto;
   max-width: 1024px
   max-height: 1024px;
+  background-image: url({{ site.url }}/images/weblogo_banner4.png)
   background-position: 5% center;
   background-repeat: no-repeat;
   background-size: contain;
