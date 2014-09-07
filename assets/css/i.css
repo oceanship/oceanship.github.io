@@ -562,13 +562,19 @@ header.site-header nav ul li a:hover {
   min-height: 128px;
   background-color: #2b66ec;
   height: 25vh;
-  width: 25%;
-  max-height: 512px;
+  width: auto;
+  max-width: 1024px
+  max-height: 1024px;
   background-position: 5% center;
-  background-size: cover;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-repeat: no-repeat;
+  background-size: contain;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  image-rendering:optimizeSpeed;             /* Legal fallback */
+  image-rendering:-moz-crisp-edges;          /* Firefox        */
+  image-rendering:-o-crisp-edges;            /* Opera          */
+  image-rendering:-webkit-optimize-contrast; /* Safari         */
 }
 
 .article .featured-image {
@@ -1199,9 +1205,6 @@ iPad 3
 
 	.article .featured-image {
 		min-height: 612px;
-	}
-	.article .head-image {
-		min-height: 306px;
 	}
 }
 
