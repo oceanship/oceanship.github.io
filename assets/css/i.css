@@ -1210,6 +1210,10 @@ iPad 3
 	.article .featured-image {
 		min-height: 912px;
 	}
+	
+	.article .head-image {
+	    background-image: url('/images/weblogo_banner_1024.png');
+    }
 }
 
 /* iPhone 4 ----------- */
