@@ -559,10 +559,12 @@ header.site-header nav ul li a:hover {
 
 .article .head-image {
   vertical-align: middle;
-  min-height: 120px;
+  min-height: 128px;
   background-color: #2b66ec;
   height: 25vh;
   width: auto;
+  max-width: 1024px
+  max-height: 1024px;
   background-image: url('/images/weblogo_banner_210.png');
   background-position: 5% center;
   background-repeat: no-repeat;
@@ -577,6 +579,7 @@ header.site-header nav ul li a:hover {
   min-height: 360px;
   height: 50vh;
   width: 100%;
+  max-height: 800px;
   background-position: center center;
   background-size: cover;
   -webkit-background-size: cover;
@@ -1200,7 +1203,7 @@ iPad 3
 	.article .featured-image {
 		min-height: 612px;
 	}
-	.article .head-image  {
+	.article .head-image {
 	    background-image: url('/images/weblogo_banner_600.png');
 	}
 }
@@ -1212,7 +1215,7 @@ iPad 3
 		min-height: 912px;
 	}
 	
-	.article .head-image  {
+	.article .head-image {
 	    background-image: url('/images/weblogo_banner_512.png');
 	}
 }
