@@ -1131,10 +1131,6 @@ footer .social ul li:last-child {
 		min-height: 160px;
 		max-height: 240px;
 	}
-	
-	.article .head-image {
-	    background-image: url('/images/weblogo_banner_105.png');
-    }
 }
 
 /* Smartphones (landscape) ----------- */
@@ -1216,7 +1212,7 @@ iPad 3
 	}
 	
 	.article .head-image {
-	    background-image: url('/images/weblogo_banner_1024.png');
+	    background-image: url('/images/weblogo_banner_300.png');
     }
 }
 
