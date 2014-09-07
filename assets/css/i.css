@@ -565,7 +565,7 @@ header.site-header nav ul li a:hover {
   width: auto;
   max-width: 1024px
   max-height: 1024px;
-  background-image: url('/images/weblogo_banner4.png');
+  background-image: url('/images/weblogo_banner_210.png');
   background-position: 5% center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -1204,7 +1204,7 @@ iPad 3
 		min-height: 612px;
 	}
 	.article .head-image {
-	    background-image: url('/images/weblogo_banner2.png');
+	    background-image: url('/images/weblogo_banner_600.png');
 	}
 }
 
