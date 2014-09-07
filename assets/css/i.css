@@ -558,7 +558,9 @@ header.site-header nav ul li a:hover {
 }
 
 .article .head-image {
+  min-height: 2.5em;
   background-color: #2b66ec;
+  height: 25vh;
   background-position: 2.5em 0;
   background-repeat: no-repeat;
   background-size:  1.875em 10em;;
