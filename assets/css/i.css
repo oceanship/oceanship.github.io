@@ -571,8 +571,7 @@ header.site-header nav ul li a:hover {
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
-  image-rendering:auto;             /* Legal fallback */
-  
+  -webkit-backface-visibility: hidden;
 }
 
 .article .featured-image {
