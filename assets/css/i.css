@@ -1184,6 +1184,11 @@ iPad 3
 		min-height: 576px;
 		max-height: 768px;
 	}
+	
+	.article .head-image {
+	    background-image: url('/images/weblogo_banner_210.png');
+		max-height: 210px;
+    }
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
@@ -1192,6 +1197,11 @@ iPad 3
 		min-height: 384px;
 		max-height: 512px;
 	}
+	
+	.article .head-image {
+	    background-image: url('/images/weblogo_banner_300.png');
+		max-height: 300px;
+    }
 }
 /* Desktops and laptops ----------- */
 @media only screen  and (min-width : 1224px) {
@@ -1212,9 +1222,7 @@ iPad 3
 	}
 	
 	.article .head-image {
-		min-height: 300px;
-		max-height: 300px;
-	    background-image: url('/images/weblogo_banner_300.png');
+	    background-image: url('/images/weblogo_banner_1024.png');
     }
 }
 
