@@ -1136,6 +1136,7 @@ footer .social ul li:last-child {
 	
 	.article .head-image {
 		min-height: 105px;
+		max-height: 105px;
 	    background-image: url('/images/weblogo_banner_105.png');
     }
 }
@@ -1149,6 +1150,7 @@ footer .social ul li:last-child {
 	
 	.article .head-image {
 		min-height: 105px;
+		max-height: 105px;
 	    background-image: url('/images/weblogo_banner_105.png');
     }
 }
@@ -1162,6 +1164,7 @@ footer .social ul li:last-child {
 	
 	.article .head-image {
 		min-height: 105px;
+		max-height: 105px;
 	    background-image: url('/images/weblogo_banner_105.png');
     }
 }
@@ -1176,6 +1179,7 @@ footer .social ul li:last-child {
 	
 	.article .head-image {
 		min-height: 210px;
+		max-height: 210px;
 	    background-image: url('/images/weblogo_banner_210.png');
     }
 }
@@ -1190,6 +1194,7 @@ footer .social ul li:last-child {
 	
 	.article .head-image {
 		min-height: 210px;
+		max-height: 210px;
 	    background-image: url('/images/weblogo_banner_210.png');
     }
 }
@@ -1204,6 +1209,7 @@ footer .social ul li:last-child {
 	
 	.article .head-image {
 		min-height: 300px;
+		max-height: 300px;
 	    background-image: url('/images/weblogo_banner_300.png');
     }
 }
@@ -1219,6 +1225,7 @@ iPad 3
 	
 	.article .head-image {
 		max-height: 210px;
+		max-height: 210px;
 	    background-image: url('/images/weblogo_banner_210.png');
 		
     }
@@ -1233,6 +1240,7 @@ iPad 3
 	
 	.article .head-image {
 		max-height: 300px;
+		max-height: 300px;
 	    background-image: url('/images/weblogo_banner_300.png');
 		
     }
@@ -1245,6 +1253,7 @@ iPad 3
 	}
 	.article .head-image {
 		min-height: 300px;
+		max-height: 300px;
 	    background-image: url('/images/weblogo_banner_300.png');
     }
 }
@@ -1258,6 +1267,7 @@ iPad 3
 	
 	.article .head-image {
 		min-height: 600px;
+		max-height: 600px;
 	    background-image: url('/images/weblogo_banner_600.png');
     }
 }
@@ -1272,6 +1282,7 @@ iPad 3
 	
 	.article .head-image {
 		min-height: 105px;
+		max-height: 105px;
 	    background-image: url('/images/weblogo_banner_105.png');
     }
 }
@@ -1285,6 +1296,7 @@ iPad 3
 	
 	.article .head-image {
 		min-height: 105px;
+		max-height: 105px;
 	    background-image: url('/images/weblogo_banner_105.png');
     }
 }
