@@ -1136,9 +1136,9 @@ footer .social ul li:last-child {
 	}
 	
 	.article .head-image {
-		min-height: 105px;
-		max-height: 105px;
-	    background-image: url('/images/weblogo_banner_105.png');
+		min-height: 120px;
+		max-height: 120px;
+	    background-image: url('/images/weblogo_120.png');
     }
 }
 
@@ -1146,13 +1146,13 @@ footer .social ul li:last-child {
 @media only screen and (min-width : 321px) {
 
 	.article .featured-image {
-		min-height: 240px;
+		min-height: 160px;
 	}
 	
 	.article .head-image {
-		min-height: 105px;
-		max-height: 105px;
-	    background-image: url('/images/weblogo_banner_105.png');
+		min-height: 120px;
+		max-height: 120px;
+	    background-image: url('/images/weblogo_120.png');
     }
 }
 
@@ -1160,13 +1160,13 @@ footer .social ul li:last-child {
 @media only screen and (max-width : 320px) {
 
 	.article .featured-image {
-		max-height: 160px;
+		min-height: 160px;
 	}
 	
 	.article .head-image {
-		min-height: 105px;
-		max-height: 105px;
-	    background-image: url('/images/weblogo_banner_105.png');
+		min-height: 120px;
+		max-height: 120px;
+	    background-image: url('/images/weblogo_120.png');
     }
 }
 
@@ -1179,9 +1179,9 @@ footer .social ul li:last-child {
 	}
 	
 	.article .head-image {
-		min-height: 210px;
-		max-height: 210px;
-	    background-image: url('/images/weblogo_banner_210.png');
+		min-height: 256px;
+		max-height: 256px;
+	    background-image: url('/images/weblogo_256.png');
     }
 }
 
@@ -1189,14 +1189,14 @@ footer .social ul li:last-child {
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
 
 	.article .featured-image {
-		min-height: 576px;
-		max-height: 768px;
+		min-height: 384px;
+		max-height: 512px;
 	}
 	
 	.article .head-image {
-		min-height: 210px;
-		max-height: 210px;
-	    background-image: url('/images/weblogo_banner_210.png');
+		min-height: 192px;
+		max-height: 192px;
+	    background-image: url('/images/weblogo_192.png');
     }
 }
 
@@ -1204,14 +1204,13 @@ footer .social ul li:last-child {
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
 
 	.article .featured-image {
-		min-height: 384px;
-		max-height: 512px;
+		min-height: 512px;
 	}
 	
 	.article .head-image {
-		min-height: 300px;
-		max-height: 300px;
-	    background-image: url('/images/weblogo_banner_300.png');
+		min-height: 256px;
+		max-height: 256px;
+	    background-image: url('/images/weblogo_256.png');
     }
 }
 /**********
@@ -1220,14 +1219,14 @@ iPad 3
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
 
 	.article .featured-image {
-		min-height: 576px;
-		max-height: 768px;
+		min-height: 384px;
+		max-height: 512px;
 	}
 	
 	.article .head-image {
-		max-height: 210px;
-		max-height: 210px;
-	    background-image: url('/images/weblogo_banner_210.png');
+		max-height: 192px;
+		max-height: 192px;
+	    background-image: url('/images/weblogo_192.png');
 		
     }
 }
@@ -1235,14 +1234,13 @@ iPad 3
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
 
 	.article .featured-image {
-		min-height: 384px;
-		max-height: 512px;
+		min-height: 512px;
 	}
 	
 	.article .head-image {
-		max-height: 300px;
-		max-height: 300px;
-	    background-image: url('/images/weblogo_banner_300.png');
+		max-height: 256px;
+		max-height: 256px;
+	    background-image: url('/images/weblogo_256.png');
 		
     }
 }
@@ -1253,9 +1251,9 @@ iPad 3
 		min-height: 612px;
 	}
 	.article .head-image {
-		min-height: 300px;
-		max-height: 300px;
-	    background-image: url('/images/weblogo_banner_300.png');
+		min-height: 306px;
+		max-height: 306px;
+	    background-image: url('/images/weblogo_306.png');
     }
 }
 
@@ -1267,9 +1265,9 @@ iPad 3
 	}
 	
 	.article .head-image {
-		min-height: 600px;
-		max-height: 600px;
-	    background-image: url('/images/weblogo_banner_600.png');
+		min-height: 456px;
+		max-height: 456px;
+	    background-image: url('/images/weblogo_456.png');
     }
 }
 
@@ -1277,27 +1275,26 @@ iPad 3
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio : 2) {
 
 	.article .featured-image {
-		min-height: 240px;
-		max-height: 360px;
+		min-height: 160px;
+		max-height: 240px;
 	}
 	
 	.article .head-image {
-		min-height: 105px;
-		max-height: 105px;
-	    background-image: url('/images/weblogo_banner_105.png');
+		min-height: 120px;
+		max-height: 120px;
+	    background-image: url('/images/weblogo_120.png');
     }
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
 
 	.article .featured-image {
-		min-height: 160px;
-		max-height: 240px;
+		min-height: 240px;
 	}
 	
 	.article .head-image {
-		min-height: 105px;
-		max-height: 105px;
-	    background-image: url('/images/weblogo_banner_105.png');
+		min-height: 120px;
+		max-height: 120px;
+	    background-image: url('/images/weblogo_120.png');
     }
 }
