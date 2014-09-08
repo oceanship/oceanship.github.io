@@ -565,10 +565,12 @@ header.site-header nav ul li a:hover {
   background-image: url('/images/weblogo_banner_210.png');
   background-position: 5% center;
   background-repeat: no-repeat;
+  /*
   background-size: contain;
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
+  */
 }
 
 .article .featured-image {
