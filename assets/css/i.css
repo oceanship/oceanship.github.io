@@ -1133,6 +1133,11 @@ footer .social ul li:last-child {
 		min-height: 160px;
 		max-height: 240px;
 	}
+	
+	.article .head-image {
+		min-height: 105px;
+	    background-image: url('/images/weblogo_banner_105.png');
+    }
 }
 
 /* Smartphones (landscape) ----------- */
@@ -1141,6 +1146,11 @@ footer .social ul li:last-child {
 	.article .featured-image {
 		min-height: 240px;
 	}
+	
+	.article .head-image {
+		min-height: 105px;
+	    background-image: url('/images/weblogo_banner_105.png');
+    }
 }
 
 /* Smartphones (portrait) ----------- */
@@ -1149,6 +1159,11 @@ footer .social ul li:last-child {
 	.article .featured-image {
 		max-height: 160px;
 	}
+	
+	.article .head-image {
+		min-height: 105px;
+	    background-image: url('/images/weblogo_banner_105.png');
+    }
 }
 
 /* iPads (portrait and landscape) ----------- */
@@ -1158,6 +1173,11 @@ footer .social ul li:last-child {
 		min-height: 384px;
 		max-height: 512px;
 	}
+	
+	.article .head-image {
+		min-height: 210px;
+	    background-image: url('/images/weblogo_banner_210.png');
+    }
 }
 
 /* iPads (landscape) ----------- */
@@ -1167,6 +1187,11 @@ footer .social ul li:last-child {
 		min-height: 576px;
 		max-height: 768px;
 	}
+	
+	.article .head-image {
+		min-height: 210px;
+	    background-image: url('/images/weblogo_banner_210.png');
+    }
 }
 
 /* iPads (portrait) ----------- */
@@ -1176,6 +1201,11 @@ footer .social ul li:last-child {
 		min-height: 384px;
 		max-height: 512px;
 	}
+	
+	.article .head-image {
+		min-height: 300px;
+	    background-image: url('/images/weblogo_banner_300.png');
+    }
 }
 /**********
 iPad 3
@@ -1227,7 +1257,8 @@ iPad 3
 	}
 	
 	.article .head-image {
-	    background-image: url('/images/weblogo_banner_1024.png');
+		min-height: 600px;
+	    background-image: url('/images/weblogo_banner_600.png');
     }
 }
 
@@ -1238,6 +1269,11 @@ iPad 3
 		min-height: 240px;
 		max-height: 360px;
 	}
+	
+	.article .head-image {
+		min-height: 105px;
+	    background-image: url('/images/weblogo_banner_105.png');
+    }
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio : 2) {
@@ -1246,4 +1282,9 @@ iPad 3
 		min-height: 160px;
 		max-height: 240px;
 	}
+	
+	.article .head-image {
+		min-height: 105px;
+	    background-image: url('/images/weblogo_banner_105.png');
+    }
 }
