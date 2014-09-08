@@ -559,11 +559,11 @@ header.site-header nav ul li a:hover {
 
 .article .head-image {
   vertical-align: middle;
-  min-height: 105px;
-  max-height: 105px;
+  min-height: 120px;
+  max-height: 120px;
   background-color: #2b66ec;
   height: 25vh;
-  background-image: url('/images/weblogo_banner_105.png');
+  background-image: url('/images/weblogo_120.png');
   background-position: 5% center;
   background-repeat: no-repeat;
   /*
