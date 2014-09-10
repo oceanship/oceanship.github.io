@@ -522,7 +522,7 @@ header.site-header nav ul li {
   margin-left: 20px;
 }
 header.site-header nav ul li a {
-  color: white;
+  color: black;
   -moz-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
@@ -1082,7 +1082,7 @@ footer .social ul li:last-child {
     color: #f9f9f9;
   }
   header.site-header nav ul li a:active {
-    background-color: #000000;
+    background-color: #8ab9d1;
     color: white;
   }
   header.site-header nav ul li a:hover {
