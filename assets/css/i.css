@@ -562,7 +562,7 @@ header.site-header nav ul li a:hover {
   min-height: 120px;
   max-height: 120px;
   background-color: #2b66ec;
-  height: 25vh;
+  /*height: 25vh;*/
   background-image: url('/images/weblogo_120.png');
   background-position: 5% center;
   background-repeat: no-repeat;
@@ -575,20 +575,18 @@ header.site-header nav ul li a:hover {
 }
 
 .article .featured-image {
-  /*vertical-align: middle;*/
-  /*min-height: 360px;/*
-  /*height: 50vh;*/
-  /*width: 100%;
-  height: auto;
-  overflow:auto;*/
-  /*background-position: center center;*/
+  /*vertical-align: middle;
+  min-height: 360px;
+  height: 50vh;
+  width: 100%;
+  background-position: center center;*/
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
 }
 .article .featured-image img {
-  max-height: 800px;
+  /*max-height: 800px;*/
 }
 .article header {
   margin: 66px 0 33px 0;
