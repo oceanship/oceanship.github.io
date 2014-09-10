@@ -1133,7 +1133,7 @@ footer .social ul li:last-child {
 
 	.article .featured-image {
 		min-height: 160px;
-		max-height: 240px;
+		/*max-height: 240px;*/
 	}
 	
 	.article .head-image {
@@ -1176,7 +1176,7 @@ footer .social ul li:last-child {
 
 	.article .featured-image {
 		min-height: 384px;
-		max-height: 512px;
+		/*max-height: 512px;*/
 	}
 	
 	.article .head-image {
@@ -1191,7 +1191,7 @@ footer .social ul li:last-child {
 
 	.article .featured-image {
 		min-height: 384px;
-		max-height: 512px;
+		/*max-height: 512px;*/
 	}
 	
 	.article .head-image {
@@ -1221,7 +1221,7 @@ iPad 3
 
 	.article .featured-image {
 		min-height: 384px;
-		max-height: 512px;
+		/*max-height: 512px;*/
 	}
 	
 	.article .head-image {
@@ -1277,7 +1277,7 @@ iPad 3
 
 	.article .featured-image {
 		min-height: 160px;
-		max-height: 240px;
+		/*max-height: 240px;*/
 	}
 	
 	.article .head-image {
