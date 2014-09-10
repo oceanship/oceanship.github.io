@@ -558,7 +558,7 @@ header.site-header nav ul li a:hover {
 }
 
 .article .head-image {
-  vertical-align: middle;
+  /*vertical-align: middle;*/
   min-height: 120px;
   max-height: 120px;
   background-color: #2b66ec;
@@ -575,11 +575,12 @@ header.site-header nav ul li a:hover {
 }
 
 .article .featured-image {
-  vertical-align: middle;
+  /*vertical-align: middle;*/
   /*min-height: 360px;/*
   /*height: 50vh;*/
   width: 100%;
-  height: auto;/*previousle 50vh*/
+  height: auto;
+  overflow:auto;
   background-position: center center;
   background-size: cover;
   -webkit-background-size: cover;
