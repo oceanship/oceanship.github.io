@@ -578,9 +578,9 @@ header.site-header nav ul li a:hover {
   /*vertical-align: middle;*/
   /*min-height: 360px;/*
   /*height: 50vh;*/
-  width: 100%;
+  /*width: 100%;
   height: auto;
-  overflow:auto;
+  overflow:auto;*/
   background-position: center center;
   background-size: cover;
   -webkit-background-size: cover;
