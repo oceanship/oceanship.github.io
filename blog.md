@@ -7,7 +7,7 @@ tags: [games, gaming, indie]
 image:
   feature: dp2.png
 ---
-
+<div>
 	<section class="article archive">
 	  <article class="archive-wrap">
 		  <ol class="post-list">
@@ -24,4 +24,4 @@ image:
 		  </ol>
 	  </article>
 	</section>
-
+</div>
