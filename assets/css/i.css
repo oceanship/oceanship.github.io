@@ -576,10 +576,10 @@ header.site-header nav ul li a:hover {
 
 .article .featured-image {
   vertical-align: middle;
-  min-height: 360px;
+  /*min-height: 360px;/*
   /*height: 50vh;*/
-  height: auto;
   width: 100%;
+  height: auto;/*previousle 50vh*/
   background-position: center center;
   background-size: cover;
   -webkit-background-size: cover;
