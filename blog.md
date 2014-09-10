@@ -8,7 +8,7 @@ image:
   feature: dp2.png
 ---
 <div id='bump'>
-	<section class="article archive">
+	
 
 		  <ol class="post-list">
 			 <h2><span class="bb">{{ page.title }}</span></h2>
@@ -23,5 +23,5 @@ image:
 			  {% endfor %}
 		  </ol>
 
-	</section>
+	
 </div>
