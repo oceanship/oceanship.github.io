@@ -498,6 +498,7 @@ header.site-header hgroup a:hover {
 }
 
 header.site-header nav {
+  color: #3b3b3b;
   float: right;
   display: block;
   padding-right: 5vw;
@@ -522,7 +523,7 @@ header.site-header nav ul li {
   margin-left: 20px;
 }
 header.site-header nav ul li a {
-  color: black;
+  color: white;
   -moz-transition: all 0.2s ease;
   -o-transition: all 0.2s ease;
   -webkit-transition: all 0.2s ease;
