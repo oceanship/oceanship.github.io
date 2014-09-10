@@ -498,7 +498,6 @@ header.site-header hgroup a:hover {
 }
 
 header.site-header nav {
-  color: #2b66ec;
   float: right;
   display: block;
   padding-right: 5vw;
@@ -1081,6 +1080,7 @@ footer .social ul li:last-child {
     position: relative;
     width: 100%;
     color: #f9f9f9;
+	background-color: #8ab9d1;
   }
   header.site-header nav ul li a:active {
     background-color: #8ab9d1;
