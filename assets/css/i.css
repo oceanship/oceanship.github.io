@@ -498,6 +498,7 @@ header.site-header hgroup a:hover {
 }
 
 header.site-header nav {
+  color: #2b66ec;
   float: right;
   display: block;
   padding-right: 5vw;
@@ -513,7 +514,6 @@ header.site-header nav {
   zoom: 1;
 }
 header.site-header nav ul li {
-  color: #2b66ec;
   font-size: 24px;
   text-transform: uppercase;
   display: inline;
