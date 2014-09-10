@@ -9,7 +9,7 @@ image:
 ---
 <div id='bump'>
 	<section class="article archive">
-
+	  <article class="archive-wrap">
 		  <ol class="post-list">
 			 <h2><span class="bb">{{ page.title }}</span></h2>
 			  {% for post in site.posts %}
@@ -22,6 +22,6 @@ image:
 			  </li>
 			  {% endfor %}
 		  </ol>
-
+	  </article>
 	</section>
 </div>
