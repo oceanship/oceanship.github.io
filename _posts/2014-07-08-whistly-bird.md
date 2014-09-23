@@ -13,6 +13,6 @@ Whistly Bird is a noisy Flappy Bird knock-off where you whistle to flap your win
 [Download it from Game Jolt](http://gamejolt.com/games/arcade/whistly-bird/29595/)
 
 <a href="https://www.youtube.com/watch?v=b9J4DrBAoyI" target="_blank"><img src="https://i.ytimg.com/vi/b9J4DrBAoyI/mqdefault.jpg" 
-alt="Patchwack teaser" />Watch a teaser</a>
+alt="Whistly Bird trailer" />Watch the trailer</a>
 
 
