@@ -9,6 +9,7 @@ image:
 ---
 Whistly Bird is a noisy Flappy Bird knock-off where you whistle to flap your wings and avoid those pipes, those pipes! The craze may be over, but we made a hard game harder, and our bird bites the turf. Our clone contains no malware.
 
+<a href="https://play.google.com/store/apps/details?id=com.oc.hummy.android" target="_blank">Get it on Google Play</a>
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.oc.hummy.android)<br>
 [Download it from Game Jolt](http://gamejolt.com/games/arcade/whistly-bird/29595/)
 
