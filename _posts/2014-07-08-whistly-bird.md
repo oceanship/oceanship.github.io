@@ -13,7 +13,7 @@ Whistly Bird is a noisy Flappy Bird knock-off where you whistle to flap your win
 [Get it on Google Play](https://play.google.com/store/apps/details?id=com.oc.hummy.android)<br>
 [Download it from Game Jolt](http://gamejolt.com/games/arcade/whistly-bird/29595/)
 
-<a href="https://www.youtube.com/watch?v=b9J4DrBAoyI" target="_blank"><img src="https://i.ytimg.com/vi/b9J4DrBAoyI/mqdefault.jpg" 
+<a href="https://www.youtube.com/watch?v=b9J4DrBAoyI" target="_blank"><img src="https://www.youtube.com/watch?v=b9J4DrBAoyI&feature=player_detailpage" 
 alt="Whistly Bird trailer" />Watch Bogart play</a>
 
 
