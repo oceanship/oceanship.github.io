@@ -767,7 +767,7 @@ header.site-header nav ul li a:hover {
   border-radius: 4px;
 }
 
-.post .small img {
+.post .orig img {
   margin: 33px auto;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
