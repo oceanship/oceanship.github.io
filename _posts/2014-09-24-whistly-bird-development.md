@@ -5,7 +5,7 @@ description: ""
 categories: articles
 tags: [arcade, flappy bird, clone]
 image: 
-        feature: wb.png
+        feature: facebook800150_bis.png
 ---
 Hello, Everybody.
 
@@ -17,19 +17,19 @@ Considering that Dong Nguyen made Flappy Bird in a few hours, there shouldn’t 
 
 But the bird went through several iterations. As you can see, we were aiming at one point for the ugliest bird possible:
 
-![My helpful screenshot]({{ site.url }}/images/image1.png)
+![My helpful screenshot]({{ site.url }}/images/1.png)
 
-![My helpful screenshot]({{ site.url }}/images/image2.png)
+![My helpful screenshot]({{ site.url }}/images/2.png)
 
-![My helpful screenshot]({{ site.url }}/images/image3.png)
+![My helpful screenshot]({{ site.url }}/images/3.png)
 
-![My helpful screenshot]({{ site.url }}/images/image4.png)
+![My helpful screenshot]({{ site.url }}/images/4.png)
 
-![My helpful screenshot]({{ site.url }}/images/image5.png)
+![My helpful screenshot]({{ site.url }}/images/5.png)
 
-![My helpful screenshot]({{ site.url }}/images/image7.png)
+![My helpful screenshot]({{ site.url }}/images/7.png)
 
-![My helpful screenshot]({{ site.url }}/images/image8.png)
+![My helpful screenshot]({{ site.url }}/images/8.png)
 
 Shouts were also heard of: “WHERE’S THE BEAK? WHERE’S THE BEAK?”
 
