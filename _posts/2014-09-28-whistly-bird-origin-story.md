@@ -25,3 +25,5 @@ Now Bogie had the girl, so he launched Whistly on his own adventure.
 
 To the late great Bogie and Bacall: WE ARE NOT WORTHY
 
+<a href="http://www.slidedb.com/games/whistly-bird" title="View Whistly Bird on Slide DB" target="_blank"><img src="http://media.slidedb.com/images/global/slidedb.png" alt="Whistly Bird" style="float:right; width:42px !important;height:44px !important;"/></a>
+<a href="http://www.indiedb.com/games/whistly-bird" title="View Whistly Bird on Indie DB" target="_blank"><img src="http://media.indiedb.com/images/global/indiedb.png" alt="Whistly Bird" style="float:right; width:42px !important;height:44px !important;"/></a>
